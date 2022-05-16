@@ -2,8 +2,7 @@ Hi, I’m @CherylA24
 
 I am currently a college student majoring in a Computer Science field. 
 
-I am a motivated programmer who works diligently and effectively in a dynamic environment. 
-Fluent in HTML, CSS, JavaScript with basic understanding of PHP and Laravel. Experienced in UI Prototyping through projects in college. I have a great capacity and willingness to learn about many various elements of computer science to improve my effectiveness as a Software Developer and UI/UX Designer.
+This github will be contain my coding projects of Machine Learning, Computer Vision, and Website Making using PHP & Laravel.
 
 
 
