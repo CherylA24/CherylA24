@@ -2,7 +2,7 @@ Hi, I’m @CherylA24
 
 I am currently a college student majoring in a Computer Science field. 
 
-This github will be contain my coding projects of Machine Learning, Computer Vision, and Website Making using PHP & Laravel.
+This github will contains my coding projects of Machine Learning, Computer Vision, and Website Making using PHP & Laravel.
 
 
 
